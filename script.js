@@ -47,6 +47,8 @@ function generateQuestion() {
             htmlBuilder += "<p>...</p>\n"
         } else if(en[i] === "one") {
                 htmlBuilder += "<p>one</p>\n"
+        } else if(en[i] === "?") {
+            htmlBuilder += "<p>?</p>\n"
         } else {
             htmlBuilder += `<div>\n<input type="text" class="box_answer" data-answer="${q.En}">\n<img class="correct" src="correct.svg"><img class="incorrect" src="incorrect.svg">\n</div>\n`
         }
@@ -54,7 +56,6 @@ function generateQuestion() {
     htmlBuilder += "</div>"
     htmlBuilder += `<p class="answer">解答: ${q.En}</p>`
     htmlBuilder += "<button class=\"submit\">回答</button>"
-    console.log(askedQuestions.length + 1)
 
     if (askedQuestions.length + 1 === questions.length) {
         htmlBuilder += "<button class=\"result\">結果</button>"
@@ -74,7 +75,7 @@ function addListener() {
         let counter = 0;
         let answer = [];
         for (let i in en) {
-            if (en[i] === "~" || en[i] === "..." || en[i] === "one") continue;
+            if (en[i] === "~" || en[i] === "..." || en[i] === "one" || en[i] === "?") continue;
 
             const input = $(".box_answer").eq(counter);
             if (input.val() === en[i]) {

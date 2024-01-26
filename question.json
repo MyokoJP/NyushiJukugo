@@ -276,8 +276,8 @@
   },
   {
     "Index": 56,
-    "En": "～の準備ができている",
-    "Jp": "be ready to ~"
+    "En": "be ready to ~",
+    "Jp": "～の準備ができている"
   },
   {
     "Index": 57,
@@ -628,5 +628,325 @@
     "Index": 126,
     "En": "go to sleep",
     "Jp": "眠る"
+  },
+  {
+    "Index": 127,
+    "En": "go into ~",
+    "Jp": "～の中に入る"
+  },
+  {
+    "Index": 128,
+    "En": "grow up",
+    "Jp": "成長する"
+  },
+  {
+    "Index": 129,
+    "En": "have been to ~",
+    "Jp": "～へ行ったことがある"
+  },
+  {
+    "Index": 130,
+    "En": "have to ~",
+    "Jp": "～しなければならない"
+  },
+  {
+    "Index": 131,
+    "En": "have a good time",
+    "Jp": "楽しく過ごす"
+  },
+  {
+    "Index": 132,
+    "En": "have a problem",
+    "Jp": "困ったことがある"
+  },
+  {
+    "Index": 133,
+    "En": "have a cold",
+    "Jp": "風邪を引いている"
+  },
+  {
+    "Index": 134,
+    "En": "had better ~",
+    "Jp": "～したほうがよい"
+  },
+  {
+    "Index": 135,
+    "En": "hear of ~",
+    "Jp": "～のことを聞く"
+  },
+  {
+    "Index": 136,
+    "En": "hear from ~",
+    "Jp": "～から便りがある"
+  },
+  {
+    "Index": 137,
+    "En": "How often ~ ?",
+    "Jp": "何回～？"
+  },
+  {
+    "Index": 138,
+    "En": "How far ~ ?",
+    "Jp": "どのくらいの距離～？"
+  },
+  {
+    "Index": 139,
+    "En": "How much ~ ?",
+    "Jp": "いくらですか。"
+  },
+  {
+    "Index": 140,
+    "En": "How about ~ ?",
+    "Jp": "～はどうですか。"
+  },
+  {
+    "Index": 141,
+    "En": "How many ~ ?",
+    "Jp": "どれくらい多くの～？"
+  },
+  {
+    "Index": 142,
+    "En": "How many times ~ ?",
+    "Jp": "何回～？"
+  },
+  {
+    "Index": 143,
+    "En": "How long ~ ?",
+    "Jp": "どれくらい長く～？"
+  },
+  {
+    "Index": 144,
+    "En": "How do you like ~ ?",
+    "Jp": "～はいかがですか。"
+  },
+  {
+    "Index": 145,
+    "En": "How about you ?",
+    "Jp": "あなたはどうですか？"
+  },
+  {
+    "Index": 146,
+    "En": "how to ~",
+    "Jp": "～のしかた"
+  },
+  {
+    "Index": 147,
+    "En": "I think that ~",
+    "Jp": "わたしは～と思う"
+  },
+  {
+    "Index": 148,
+    "En": "I am afraid that ~",
+    "Jp": "～かと心配する"
+  },
+  {
+    "Index": 149,
+    "En": "I see",
+    "Jp": "(会話)わかります"
+  },
+  {
+    "Index": 150,
+    "En": "I hope ~",
+    "Jp": "～を望む"
+  },
+  {
+    "Index": 151,
+    "En": "in a few hours",
+    "Jp": "2,3時間で"
+  },
+  {
+    "Index": 152,
+    "En": "in a year",
+    "Jp": "一年で"
+  },
+  {
+    "Index": 153,
+    "En": "in fact",
+    "Jp": "実際は"
+  },
+  {
+    "Index": 154,
+    "En": "in the future",
+    "Jp": "将来"
+  },
+  {
+    "Index": 155,
+    "En": "in front of ~",
+    "Jp": "～の前に"
+  },
+  {
+    "Index": 156,
+    "En": "in groups",
+    "Jp": "集団で，グループで"
+  },
+  {
+    "Index": 157,
+    "En": "in time for ~",
+    "Jp": "～に間に合って"
+  },
+  {
+    "Index": 158,
+    "En": "in that way",
+    "Jp": "その点では"
+  },
+  {
+    "Index": 159,
+    "En": "in those days",
+    "Jp": "その時点では"
+  },
+  {
+    "Index": 160,
+    "En": "in one's opinion ~",
+    "Jp": "～の意見では"
+  },
+  {
+    "Index": 161,
+    "En": "in the sun",
+    "Jp": "日差しを浴びて"
+  },
+  {
+    "Index": 162,
+    "En": "in order to ~",
+    "Jp": "～するために"
+  },
+  {
+    "Index": 163,
+    "En": "in a way",
+    "Jp": "ある意味では"
+  },
+  {
+    "Index": 164,
+    "En": "It is ~ to ...",
+    "Jp": "...するのは～だ"
+  },
+  {
+    "Index": 165,
+    "En": "It takes ~ to ...",
+    "Jp": "...するのに～かかる"
+  },
+  {
+    "Index": 166,
+    "En": "It's kind of you",
+    "Jp": "どうもご親切に。"
+  },
+  {
+    "Index": 167,
+    "En": "It's getting dark",
+    "Jp": "暗くなってきた。"
+  },
+  {
+    "Index": 168,
+    "En": "just like ~",
+    "Jp": "ちょうど～のよう"
+  },
+  {
+    "Index": 169,
+    "En": "keep doing",
+    "Jp": "し(do)続ける"
+  },
+  {
+    "Index": 170,
+    "En": "leave for ~",
+    "Jp": "～へ出発する"
+  },
+  {
+    "Index": 171,
+    "En": "learn about ~",
+    "Jp": "～のことを知る，学ぶ"
+  },
+  {
+    "Index": 172,
+    "En": "Let me see",
+    "Jp": "ええと。"
+  },
+  {
+    "Index": 173,
+    "En": "listen to ~",
+    "Jp": "～を聞く"
+  },
+  {
+    "Index": 174,
+    "En": "live in ~",
+    "Jp": "～住む"
+  },
+  {
+    "Index": 175,
+    "En": "look after ~",
+    "Jp": "～の世話をする"
+  },
+  {
+    "Index": 176,
+    "En": "look at ~",
+    "Jp": "～を見る"
+  },
+  {
+    "Index": 177,
+    "En": "look for ~",
+    "Jp": "～を探す"
+  },
+  {
+    "Index": 178,
+    "En": "look like ~",
+    "Jp": "～のように見える"
+  },
+  {
+    "Index": 179,
+    "En": "look up",
+    "Jp": "見上げる，調べる"
+  },
+  {
+    "Index": 180,
+    "En": "look around ~",
+    "Jp": "～を見回す"
+  },
+  {
+    "Index": 181,
+    "En": "look out",
+    "Jp": "外を見る，注意する"
+  },
+  {
+    "Index": 182,
+    "En": "look down",
+    "Jp": "見下ろす"
+  },
+  {
+    "Index": 183,
+    "En": "long ago",
+    "Jp": "今からずっと前に"
+  },
+  {
+    "Index": 184,
+    "En": "make a mistake",
+    "Jp": "間違える"
+  },
+  {
+    "Index": 185,
+    "En": "make a speech",
+    "Jp": "スピーチをする"
+  },
+  {
+    "Index": 186,
+    "En": "make it",
+    "Jp": "うまくいく"
+  },
+  {
+    "Index": 187,
+    "En": "more than ~",
+    "Jp": "～以上"
+  },
+  {
+    "Index": 188,
+    "En": "more and more ~",
+    "Jp": "ますます～"
+  },
+  {
+    "Index": 189,
+    "En": "most of ~",
+    "Jp": "～の大部分"
+  },
+  {
+    "Index": 190,
+    "En": "need to ~",
+    "Jp": "～する必要がある"
   }
 ]
