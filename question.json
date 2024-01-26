@@ -948,5 +948,405 @@
     "Index": 190,
     "En": "need to ~",
     "Jp": "～する必要がある"
+  },
+  {
+    "Index": 191,
+    "En": "next time",
+    "Jp": "この次は"
+  },
+  {
+    "Index": 192,
+    "En": "next to ~",
+    "Jp": "～のとなりに"
+  },
+  {
+    "Index": 193,
+    "En": "not ~ at all",
+    "Jp": "少しも～ない"
+  },
+  {
+    "Index": 194,
+    "En": "no one ~",
+    "Jp": "だれも～ない"
+  },
+  {
+    "Index": 195,
+    "En": "not ~ any",
+    "Jp": "少しの～もない"
+  },
+  {
+    "Index": 196,
+    "En": "not ~ any more",
+    "Jp": "もうこれ以上～ない"
+  },
+  {
+    "Index": 197,
+    "En": "not only ~ but also ...",
+    "Jp": "～だけでなく...も"
+  },
+  {
+    "Index": 198,
+    "En": "not ~ yet",
+    "Jp": "まだ～ない"
+  },
+  {
+    "Index": 199,
+    "En": "not as ~ as ...",
+    "Jp": "...ほど～でない"
+  },
+  {
+    "Index": 200,
+    "En": "of course",
+    "Jp": "もちろん"
+  },
+  {
+    "Index": 201,
+    "En": "on foot",
+    "Jp": "歩いて"
+  },
+  {
+    "Index": 202,
+    "En": "on one's way home",
+    "Jp": "家に帰る途中"
+  },
+  {
+    "Index": 203,
+    "En": "on one's way to ~",
+    "Jp": "～に行く途中で"
+  },
+  {
+    "Index": 204,
+    "En": "on time",
+    "Jp": "時間通りに"
+  },
+  {
+    "Index": 205,
+    "En": "on one's own",
+    "Jp": "独力で"
+  },
+  {
+    "Index": 206,
+    "En": "one of ~",
+    "Jp": "～のうちの一つ"
+  },
+  {
+    "Index": 207,
+    "En": "one day",
+    "Jp": "ある日"
+  },
+  {
+    "Index": 208,
+    "En": "out of ~",
+    "Jp": "～から外へ"
+  },
+  {
+    "Index": 209,
+    "En": "over there",
+    "Jp": "むこうに"
+  },
+  {
+    "Index": 210,
+    "En": "part of ~",
+    "Jp": "～の一部分"
+  },
+  {
+    "Index": 211,
+    "En": "pick ~ up",
+    "Jp": "～を拾い上げる"
+  },
+  {
+    "Index": 212,
+    "En": "point to ~",
+    "Jp": "～を指さす"
+  },
+  {
+    "Index": 213,
+    "En": "pull out ~",
+    "Jp": "～を引き出す，抜く"
+  },
+  {
+    "Index": 214,
+    "En": "put on ~",
+    "Jp": "～を着る"
+  },
+  {
+    "Index": 215,
+    "En": "right now",
+    "Jp": "今すぐに"
+  },
+  {
+    "Index": 216,
+    "En": "run away",
+    "Jp": "逃げる"
+  },
+  {
+    "Index": 217,
+    "En": "say to oneself",
+    "Jp": "心のなかで思う"
+  },
+  {
+    "Index": 218,
+    "En": "send ~ for ...",
+    "Jp": "...を呼びに～をやる"
+  },
+  {
+    "Index": 219,
+    "En": "sit down",
+    "Jp": "腰を下ろす"
+  },
+  {
+    "Index": 220,
+    "En": "some day",
+    "Jp": "いつの日か"
+  },
+  {
+    "Index": 221,
+    "En": "some of them",
+    "Jp": "それらのいくつか"
+  },
+  {
+    "Index": 222,
+    "En": "speak to ~",
+    "Jp": "～に話しかける"
+  },
+  {
+    "Index": 223,
+    "En": "stay with ~",
+    "Jp": "～の家に泊まる"
+  },
+  {
+    "Index": 224,
+    "En": "stay at ~",
+    "Jp": "～に泊まる"
+  },
+  {
+    "Index": 225,
+    "En": "stand up",
+    "Jp": "立つ"
+  },
+  {
+    "Index": 226,
+    "En": "such as ~",
+    "Jp": "～のような"
+  },
+  {
+    "Index": 227,
+    "En": "suffer from ~",
+    "Jp": "～に苦しむ"
+  },
+  {
+    "Index": 228,
+    "En": "take care of ~",
+    "Jp": "～の世話をする"
+  },
+  {
+    "Index": 229,
+    "En": "take a picture",
+    "Jp": "写真を撮る"
+  },
+  {
+    "Index": 230,
+    "En": "take off ~",
+    "Jp": "～を取り去る，離陸する"
+  },
+  {
+    "Index": 231,
+    "En": "take out ~",
+    "Jp": "～を取り出す，連れ出す"
+  },
+  {
+    "Index": 232,
+    "En": "talk to ~",
+    "Jp": "～に話しかける"
+  },
+  {
+    "Index": 233,
+    "En": "talk with ~",
+    "Jp": "～と話す"
+  },
+  {
+    "Index": 234,
+    "En": "talk about ~",
+    "Jp": "～について話す"
+  },
+  {
+    "Index": 235,
+    "En": "take a walk",
+    "Jp": "散歩する"
+  },
+  {
+    "Index": 236,
+    "En": "take in ~",
+    "Jp": "～を取り入れる"
+  },
+  {
+    "Index": 237,
+    "En": "take ~ to ...",
+    "Jp": "～を...へ連れて行く"
+  },
+  {
+    "Index": 238,
+    "En": "tell ~ to ...",
+    "Jp": "～に...するように言う"
+  },
+  {
+    "Index": 239,
+    "En": "think of ~",
+    "Jp": "～を思いつく"
+  },
+  {
+    "Index": 240,
+    "En": "think about ~",
+    "Jp": "～について考える"
+  },
+  {
+    "Index": 241,
+    "En": "thank ~ for ...",
+    "Jp": "～に...を感謝する"
+  },
+  {
+    "Index": 242,
+    "En": "thanks to ~",
+    "Jp": "～のおかげで"
+  },
+  {
+    "Index": 243,
+    "En": "That's too bad",
+    "Jp": "それはいけませんね。"
+  },
+  {
+    "Index": 244,
+    "En": "That's right",
+    "Jp": "そのとおりです。"
+  },
+  {
+    "Index": 245,
+    "En": "the other day",
+    "Jp": "先日"
+  },
+  {
+    "Index": 246,
+    "En": "the number of",
+    "Jp": "～の数(単数扱い)"
+  },
+  {
+    "Index": 247,
+    "En": "the next day",
+    "Jp": "その翌日"
+  },
+  {
+    "Index": 248,
+    "En": "They say ~",
+    "Jp": "～だそうです。"
+  },
+  {
+    "Index": 249,
+    "En": "thousands of ~",
+    "Jp": "何千もの"
+  },
+  {
+    "Index": 250,
+    "En": "this time",
+    "Jp": "今度は"
+  },
+  {
+    "Index": 251,
+    "En": "throw away ~",
+    "Jp": "～を投げ捨てる"
+  },
+  {
+    "Index": 252,
+    "En": "too ~ to ...",
+    "Jp": "...するには～すぎる"
+  },
+  {
+    "Index": 253,
+    "En": "try to ~",
+    "Jp": "～しようと務める"
+  },
+  {
+    "Index": 254,
+    "En": "turn down ~",
+    "Jp": "音を下げる"
+  },
+  {
+    "Index": 355,
+    "En": "turn off ~",
+    "Jp": "(明かりなどを)消す"
+  },
+  {
+    "Index": 256,
+    "En": "turn on ~",
+    "Jp": "～をつける"
+  },
+  {
+    "Index": 257,
+    "En": "wake up",
+    "Jp": "目が覚める"
+  },
+  {
+    "Index": 258,
+    "En": "wait for ~",
+    "Jp": "～を待つ"
+  },
+  {
+    "Index": 259,
+    "En": "walk around",
+    "Jp": "あちこち歩き回る"
+  },
+  {
+    "Index": 260,
+    "En": "want ~ to ...",
+    "Jp": "～に...してもらいたい"
+  },
+  {
+    "Index": 261,
+    "En": "What to ~",
+    "Jp": "何を～したらよいか"
+  },
+  {
+    "Index": 262,
+    "En": "What's up ?",
+    "Jp": "どうしたの"
+  },
+  {
+    "Index": 263,
+    "En": "What about ~ ?",
+    "Jp": "～はどうですか。"
+  },
+  {
+    "Index": 264,
+    "En": "What kind of ~ ?",
+    "Jp": "どんな種類の～？"
+  },
+  {
+    "Index": 265,
+    "En": "What's wrong ?",
+    "Jp": "どこか悪いのですか"
+  },
+  {
+    "Index": 266,
+    "En": "What do you mean ?",
+    "Jp": "どういう意味ですか"
+  },
+  {
+    "Index": 267,
+    "En": "Why don't you ~ ?",
+    "Jp": "～しませんか"
+  },
+  {
+    "Index": 268,
+    "En": "Why don't we ~ ?",
+    "Jp": "いっしょに～しよう。"
+  },
+  {
+    "Index": 269,
+    "En": "Why not ?",
+    "Jp": "もちろんだよ"
+  },
+  {
+    "Index": 270,
+    "En": "Will you ~ ?",
+    "Jp": "～してくれませんか。"
   }
 ]
