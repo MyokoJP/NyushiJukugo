@@ -136,7 +136,497 @@
   },
   {
     "Index": 28,
-    "En": "~ as well as ...",
-    "Jp": "...と同様に～も"
+    "En": "ask ~ to ...",
+    "Jp": "～に...するように頼む"
+  },
+  {
+    "Index": 29,
+    "En": "at first",
+    "Jp": "最初は"
+  },
+  {
+    "Index": 30,
+    "En": "at home",
+    "Jp": "家で"
+  },
+  {
+    "Index": 31,
+    "En": "at last",
+    "Jp": "ついに"
+  },
+  {
+    "Index": 32,
+    "En": "at once",
+    "Jp": "すぐに"
+  },
+  {
+    "Index": 33,
+    "En": "at that time",
+    "Jp": "そのとき"
+  },
+  {
+    "Index": 34,
+    "En": "at the age of ~",
+    "Jp": "～歳の時に"
+  },
+  {
+    "Index": 35,
+    "En": "at the end of ~",
+    "Jp": "～の終わりに"
+  },
+  {
+    "Index": 36,
+    "En": "at the same time",
+    "Jp": "同時に"
+  },
+  {
+    "Index": 37,
+    "En": "away from ~",
+    "Jp": "～から離れて"
+  },
+  {
+    "Index": 38,
+    "En": "be able to ~",
+    "Jp": "～することができる"
+  },
+  {
+    "Index": 39,
+    "En": "be afraid of ~",
+    "Jp": "～をこわがる"
+  },
+  {
+    "Index": 40,
+    "En": "be careful ~",
+    "Jp": "気をつける"
+  },
+  {
+    "Index": 41,
+    "En": "be different from ~",
+    "Jp": "～と違う"
+  },
+  {
+    "Index": 42,
+    "En": "be from ~",
+    "Jp": "～出身だ"
+  },
+  {
+    "Index": 43,
+    "En": "be famous for ~",
+    "Jp": "～で有名だ"
+  },
+  {
+    "Index": 44,
+    "En": "be full of ~",
+    "Jp": "～でいっぱいである"
+  },
+  {
+    "Index": 45,
+    "En": "be going to ~",
+    "Jp": "～するつもりである"
+  },
+  {
+    "Index": 46,
+    "En": "be glad to ~",
+    "Jp": "～してうれしい"
+  },
+  {
+    "Index": 47,
+    "En": "be good at ~",
+    "Jp": "～が上手である"
+  },
+  {
+    "Index": 48,
+    "En": "be in trouble",
+    "Jp": "困っている"
+  },
+  {
+    "Index": 49,
+    "En": "be interested in ~",
+    "Jp": "～に興味がある"
+  },
+  {
+    "Index": 50,
+    "En": "be kind to ~",
+    "Jp": "～に親切である"
+  },
+  {
+    "Index": 51,
+    "En": "be known to ~",
+    "Jp": "～で知られている"
+  },
+  {
+    "Index": 52,
+    "En": "be late for ~",
+    "Jp": "～に遅れる"
+  },
+  {
+    "Index": 53,
+    "En": "be made of ~",
+    "Jp": "～でできている"
+  },
+  {
+    "Index": 54,
+    "En": "be made from ~",
+    "Jp": "～から作られている"
+  },
+  {
+    "Index": 55,
+    "En": "be made up of ~",
+    "Jp": "～で成り立っている"
+  },
+  {
+    "Index": 56,
+    "En": "～の準備ができている",
+    "Jp": "be ready to ~"
+  },
+  {
+    "Index": 57,
+    "En": "be sorry that ~",
+    "Jp": "～を気の毒に思う"
+  },
+  {
+    "Index": 58,
+    "En": "be sure that ~",
+    "Jp": "～を確信する"
+  },
+  {
+    "Index": 59,
+    "En": "be surprised at ~",
+    "Jp": "～に驚く"
+  },
+  {
+    "Index": 60,
+    "En": "be sick in bed",
+    "Jp": "病気で寝ている"
+  },
+  {
+    "Index": 61,
+    "En": "be worried about ~",
+    "Jp": "～を心配する"
+  },
+  {
+    "Index": 62,
+    "En": "because of ~",
+    "Jp": "～のため"
+  },
+  {
+    "Index": 63,
+    "En": "before noon",
+    "Jp": "正午前"
+  },
+  {
+    "Index": 64,
+    "En": "before long",
+    "Jp": "まもなく"
+  },
+  {
+    "Index": 65,
+    "En": "between ~ and ...",
+    "Jp": "～と...の間に"
+  },
+  {
+    "Index": 66,
+    "En": "~ better than ...",
+    "Jp": "...よりよく～"
+  },
+  {
+    "Index": 67,
+    "En": "both ~ and ...",
+    "Jp": "～も...も両方とも"
+  },
+  {
+    "Index": 68,
+    "En": "by oneself",
+    "Jp": "独力で"
+  },
+  {
+    "Index": 69,
+    "En": "by the way",
+    "Jp": "ところで"
+  },
+  {
+    "Index": 70,
+    "En": "call at ~",
+    "Jp": "(家を)訪問する"
+  },
+  {
+    "Index": 71,
+    "En": "call on ~",
+    "Jp": "(人を)訪問する"
+  },
+  {
+    "Index": 72,
+    "En": "come and see me",
+    "Jp": "会いに来る"
+  },
+  {
+    "Index": 73,
+    "En": "come back",
+    "Jp": "もどる"
+  },
+  {
+    "Index": 74,
+    "En": "come from ~",
+    "Jp": "～の出身である"
+  },
+  {
+    "Index": 75,
+    "En": "come home",
+    "Jp": "帰宅する"
+  },
+  {
+    "Index": 76,
+    "En": "come in ~",
+    "Jp": "～に入ってくる"
+  },
+  {
+    "Index": 77,
+    "En": "come on",
+    "Jp": "やってくる，さあ"
+  },
+  {
+    "Index": 78,
+    "En": "come out",
+    "Jp": "出てくる"
+  },
+  {
+    "Index": 79,
+    "En": "come true",
+    "Jp": "実現する"
+  },
+  {
+    "Index": 80,
+    "En": "come up to ~",
+    "Jp": "～に近づく"
+  },
+  {
+    "Index": 81,
+    "En": "cut down ~",
+    "Jp": "～を切り倒す"
+  },
+  {
+    "Index": 82,
+    "En": "different ~ from ...",
+    "Jp": "...と違う～"
+  },
+  {
+    "Index": 83,
+    "En": "do one's best",
+    "Jp": "最善をつくす"
+  },
+  {
+    "Index": 84,
+    "En": "do the dishes",
+    "Jp": "食器を洗う"
+  },
+  {
+    "Index": 85,
+    "En": "don't have to ~",
+    "Jp": "～する必要はない"
+  },
+  {
+    "Index": 86,
+    "En": "each other",
+    "Jp": "お互いに"
+  },
+  {
+    "Index": 87,
+    "En": "either ~ or ...",
+    "Jp": "～か...かどちらか"
+  },
+  {
+    "Index": 88,
+    "En": "enjoy ~",
+    "Jp": "～することを楽しむ"
+  },
+  {
+    "Index": 89,
+    "En": "~ enough to ...",
+    "Jp": "...するのに十分～"
+  },
+  {
+    "Index": 90,
+    "En": "even if ~",
+    "Jp": "たとえ～であっても"
+  },
+  {
+    "Index": 91,
+    "En": "every day",
+    "Jp": "毎日"
+  },
+  {
+    "Index": 92,
+    "En": "far from ~",
+    "Jp": "遠くに"
+  },
+  {
+    "Index": 93,
+    "En": "feel sick",
+    "Jp": "気分が悪い"
+  },
+  {
+    "Index": 94,
+    "En": "find out ~",
+    "Jp": "～を発見する"
+  },
+  {
+    "Index": 95,
+    "En": "fill up",
+    "Jp": "いっぱいになる"
+  },
+  {
+    "Index": 96,
+    "En": "for a long time",
+    "Jp": "長い間"
+  },
+  {
+    "Index": 97,
+    "En": "for the first time",
+    "Jp": "はじめて"
+  },
+  {
+    "Index": 98,
+    "En": "for a while",
+    "Jp": "しばらくの間"
+  },
+  {
+    "Index": 99,
+    "En": "for oneself",
+    "Jp": "独力で"
+  },
+  {
+    "Index": 100,
+    "En": "for example",
+    "Jp": "たとえば"
+  },
+  {
+    "Index": 101,
+    "En": "for a minute",
+    "Jp": "少しの間"
+  },
+  {
+    "Index": 102,
+    "En": "from ~ to ...",
+    "Jp": "～から...まで"
+  },
+  {
+    "Index": 103,
+    "En": "from now on",
+    "Jp": "今後"
+  },
+  {
+    "Index": 104,
+    "En": "full of ~",
+    "Jp": "～でいっぱい"
+  },
+  {
+    "Index": 105,
+    "En": "get up",
+    "Jp": "起きる"
+  },
+  {
+    "Index": 106,
+    "En": "get out ~",
+    "Jp": "外に出る"
+  },
+  {
+    "Index": 107,
+    "En": "get to ~",
+    "Jp": "～に着く"
+  },
+  {
+    "Index": 108,
+    "En": "get on ~",
+    "Jp": "～に乗る"
+  },
+  {
+    "Index": 109,
+    "En": "get angry",
+    "Jp": "起こる"
+  },
+  {
+    "Index": 110,
+    "En": "get home",
+    "Jp": "帰宅する"
+  },
+  {
+    "Index": 111,
+    "En": "get well",
+    "Jp": "(体調が)よくなる"
+  },
+  {
+    "Index": 112,
+    "En": "get out of ~",
+    "Jp": "～から外に出る"
+  },
+  {
+    "Index": 113,
+    "En": "get into ~",
+    "Jp": "～中に入る"
+  },
+  {
+    "Index": 114,
+    "En": "get in ~",
+    "Jp": "～に入る"
+  },
+  {
+    "Index": 115,
+    "En": "get back",
+    "Jp": "もどる"
+  },
+  {
+    "Index": 116,
+    "En": "降りる",
+    "Jp": "get off ~"
+  },
+  {
+    "Index": 117,
+    "En": "get dark",
+    "Jp": "暗くなる"
+  },
+  {
+    "Index": 118,
+    "En": "give up ~",
+    "Jp": "～をあきらめる"
+  },
+  {
+    "Index": 119,
+    "En": "go for a walk",
+    "Jp": "散歩にでかける"
+  },
+  {
+    "Index": 120,
+    "En": "go on",
+    "Jp": "進む，行く，続く"
+  },
+  {
+    "Index": 121,
+    "En": "go out",
+    "Jp": "外に出る"
+  },
+  {
+    "Index": 122,
+    "En": "go back to ~",
+    "Jp": "～へ帰る"
+  },
+  {
+    "Index": 123,
+    "En": "go to bed",
+    "Jp": "寝る"
+  },
+  {
+    "Index": 124,
+    "En": "go away",
+    "Jp": "立ち去る"
+  },
+  {
+    "Index": 125,
+    "En": "go up",
+    "Jp": "登る，上がる"
+  },
+  {
+    "Index": 126,
+    "En": "go to sleep",
+    "Jp": "眠る"
   }
 ]
